@@ -1,0 +1,6 @@
+{
+    "$schema": "https://raw.githubusercontent.com/nrwl/nx/refs/heads/master/packages/nx/schemas/project-schema.json",
+    "name": "elysium",
+    "root": "apps/elysium",
+    "projectType": "application"
+}

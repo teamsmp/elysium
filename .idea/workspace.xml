@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d81c166f-3c1b-4d47-8c27-adc6ea6bb395" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../cerium/.idea/modules/cerium.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cerium/.idea/modules/uk.teamsmp.cerium.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/elysium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/blog/+page.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/blog/md.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../neodymium/.idea/modules/neodymium.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../neodymium/src/main/kotlin/uk/teamsmp/neodymium/commands/RewardCommand.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../neodymium/src/main/kotlin/uk/teamsmp/neodymium/utils/Utils.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../osmiumd/.idea/osmiumd_rs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aetherium/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aetherium/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aetherium/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aetherium/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aetherium/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aetherium/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aetherium/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aetherium/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aetherium/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aetherium/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aetherium/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aetherium/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aetherium/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aetherium/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aetherium/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aetherium/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aetherium/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aetherium/src/main/kotlin/uk/teamsmp/aetherium/Aetherium.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aetherium/src/main/kotlin/uk/teamsmp/aetherium/commands/CustomGiveCommand.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aetherium/src/main/kotlin/uk/teamsmp/aetherium/commands/ModVoteCommand.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aetherium/src/main/kotlin/uk/teamsmp/aetherium/commands/PunishCommand.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aetherium/src/main/kotlin/uk/teamsmp/aetherium/commands/SrviCommand.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aetherium/src/main/kotlin/uk/teamsmp/aetherium/events/MinecartSpeed.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aetherium/src/main/kotlin/uk/teamsmp/aetherium/events/OverrideCustomCrafts.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aetherium/src/main/kotlin/uk/teamsmp/aetherium/events/SrviPebbleDrop.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aetherium/src/main/kotlin/uk/teamsmp/aetherium/recipes/StoneFromPebbleRecipe.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aetherium/src/main/kotlin/uk/teamsmp/aetherium/utils/ItemUtils.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aetherium/src/main/kotlin/uk/teamsmp/aetherium/utils/Utils.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aetherium/src/main/resources/plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/.gradle/8.8/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/.gradle/8.8/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/.gradle/8.8/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/.gradle/8.8/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/.gradle/8.8/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/.gradle/8.8/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/.gradle/8.8/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/.gradle/8.8/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/.gradle/8.8/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/.gradle/8.8/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/.idea/modules/cerium.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/build/generated/sources/templates/uk/teamsmp/cerium/BuildConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/build/reports/project/dependencies.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/build/reports/project/dependencies/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/build/reports/project/dependencies/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/build/reports/project/dependencies/css/tree.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/build/reports/project/dependencies/images/d.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/build/reports/project/dependencies/images/d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/build/reports/project/dependencies/images/throbber.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/build/reports/project/dependencies/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/build/reports/project/dependencies/js/jquery.jstree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/build/reports/project/dependencies/js/jquery.min-3.5.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/build/reports/project/dependencies/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/build/reports/project/dependencies/root.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/build/reports/project/dependencies/root.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/build/reports/project/properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/build/reports/project/tasks.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/src/main/kotlin/uk/teamsmp/cerium/Cerium.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cerium/src/main/templates/uk/teamsmp/cerium/BuildConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/.npmrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/.prettierignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/components.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/eslint.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/pnpm-lock.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/app.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/app.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/lib/complib.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/lib/components/Emoji.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/lib/components/Heading.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/lib/components/MainBlock.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/lib/components/Nav.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/lib/components/NavNew.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/lib/components/Para.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/lib/components/Sect.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/lib/components/TitleBlock.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/lib/components/ui/alert/alert-description.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/lib/components/ui/alert/alert-title.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/lib/components/ui/alert/alert.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/lib/components/ui/alert/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/lib/components/ui/button/button.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/lib/components/ui/button/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/lib/components/ui/input/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/lib/components/ui/input/input.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/lib/components/ui/sheet/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/lib/components/ui/sheet/sheet-content.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/lib/components/ui/sheet/sheet-description.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/lib/components/ui/sheet/sheet-footer.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/lib/components/ui/sheet/sheet-header.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/lib/components/ui/sheet/sheet-overlay.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/lib/components/ui/sheet/sheet-portal.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/lib/components/ui/sheet/sheet-title.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/lib/components/ui/sonner/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/lib/components/ui/sonner/sonner.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/lib/components/ui/tabs/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/lib/components/ui/tabs/tabs-content.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/lib/components/ui/tabs/tabs-list.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/lib/components/ui/tabs/tabs-trigger.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/lib/navlinks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/lib/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/routes/+layout.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/routes/+page.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/routes/about/+page.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/routes/api/playerinfo/+server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/routes/api/playerinfo/types.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/routes/join/+page.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/routes/player/+page.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/src/routes/player/stats/+page.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/static/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/static/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/static/img/lobby-herobg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/svelte.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/tailwind.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elysium/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/.gradle/8.8/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/.gradle/8.8/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/.gradle/8.8/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/.gradle/8.8/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/.gradle/8.8/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/.gradle/8.8/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/.gradle/8.8/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/.gradle/8.8/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/.gradle/8.8/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/.gradle/8.8/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/.idea/modules/neodymium.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/build/reports/project/dependencies.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/build/reports/project/dependencies/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/build/reports/project/dependencies/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/build/reports/project/dependencies/css/tree.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/build/reports/project/dependencies/images/d.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/build/reports/project/dependencies/images/d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/build/reports/project/dependencies/images/throbber.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/build/reports/project/dependencies/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/build/reports/project/dependencies/js/jquery.jstree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/build/reports/project/dependencies/js/jquery.min-3.5.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/build/reports/project/dependencies/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/build/reports/project/dependencies/root.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/build/reports/project/dependencies/root.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/build/reports/project/properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/build/reports/project/tasks.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/src/main/kotlin/uk/teamsmp/neodymium/Neodymium.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../neodymium/src/main/resources/plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../osmiumd/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../osmiumd/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../osmiumd/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../osmiumd/.idea/osmiumd_rs.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../osmiumd/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../osmiumd/Cargo.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../osmiumd/Cargo.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../osmiumd/src/check.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../osmiumd/src/main.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../osmiumd/src/routes.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../osmiumd/src/storage.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../osmiumd/src/types.rs" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="blog/+page" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2r4I4qKQNyIUrGKtPgk8saGkBa3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/jungl/code/teamsmp/apps/elysium",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "pnpm",
+    "npm.dev.executor": "Run",
+    "npm.format.executor": "Run",
+    "prettierjs.PrettierConfiguration.Package": "/home/jungl/code/teamsmp/apps/elysium/node_modules/prettier",
+    "settings.editor.selected.configurable": "preferences.sourceCode",
+    "ts.external.directory.path": "/home/jungl/code/teamsmp/apps/elysium/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2">
+        <option name="NpmBeforeRunTask" enabled="true">
+          <package-json value="$PROJECT_DIR$/package.json" />
+          <command value="run" />
+          <scripts>
+            <script value="format" />
+          </scripts>
+          <node-interpreter value="project" />
+          <envs />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.112" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d81c166f-3c1b-4d47-8c27-adc6ea6bb395" name="Changes" comment="" />
+      <created>1735811731713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735811731713</updated>
+      <workItem from="1735811732821" duration="3452000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
